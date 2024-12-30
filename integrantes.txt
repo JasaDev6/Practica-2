@@ -1,0 +1,7 @@
+Practica2 Vue3
+Integrante:
+- Juan Antonio Sabath Awad
+
+Pasos para iniciar el proyecto
+1) npm install
+2) npm run serve
